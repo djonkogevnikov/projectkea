@@ -1,0 +1,2 @@
+update squash 1
+update squash 2
